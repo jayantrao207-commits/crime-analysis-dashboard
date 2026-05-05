@@ -1,3 +1,5 @@
+import os
+os.system("pip install folium streamlit-folium")
 import streamlit as st
 import pandas as pd
 import folium
